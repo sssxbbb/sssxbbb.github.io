@@ -1,8 +1,15 @@
 ---
-title: "NECCS"
-collection: Competitions
-category: Provincial Award of Excellence
-date: 2024-5
+title: "Paper Title Number 3"
+collection: publications
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2015-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
+This paper is about the number 3. The number 4 is left for future work.
 
-The NECCS is a prestigious English proficiency competition in China, aimed at assessing and enhancing the English language skills of college students. In 2024, I participated in this contest and received an Excellence Award at the provincial level. The competition consists of various sections, including reading comprehension, vocabulary, grammar, and writing, designed to comprehensively evaluate participants' English abilities. It serves as a significant benchmark for students' English proficiency and offers valuable opportunities for self-assessment and improvement in a competitive environment.
+[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
