@@ -1,14 +1,8 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+title: "NECCS"
+collection: Competitions
+category: Provincial Award of Excellence
+date: 2024-5
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The National College English Contest (大英赛) is a prestigious English proficiency competition in China, aimed at assessing and enhancing the English language skills of college students. In 2024, I participated in this contest and received an Excellence Award at the provincial level. The competition consists of various sections, including reading comprehension, vocabulary, grammar, and writing, designed to comprehensively evaluate participants' English abilities. It serves as a significant benchmark for students' English proficiency and offers valuable opportunities for self-assessment and improvement in a competitive environment.
