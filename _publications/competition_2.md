@@ -1,4 +1,4 @@
----
+--
 title: "The 2024 FLTRP & Guocai Cup "Understanding Contemporary China" English Comprehensive Ability Open Contest"
 collection: Competitions
 category: Second Prize at the National Level
